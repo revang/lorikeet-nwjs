@@ -1,0 +1,10 @@
+{
+    "name": "lorikeey-nwjs",
+    "version": "1.0.0",
+    "main": "index.html",
+    "dependencies": {
+        "async": "^3.0.1",
+        "fs": "0.0.1-security",
+        "osenv": "^0.1.5"
+    }
+}
